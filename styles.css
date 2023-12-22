@@ -4,5 +4,9 @@
 	display:grid;
      size:200px;
 	background-color:red;
+	grid-template-columns:repeat(2, 200px);
+		grid-template-rows:repeat(2, 200px);
+	margin:10px;
+
 	
 }
